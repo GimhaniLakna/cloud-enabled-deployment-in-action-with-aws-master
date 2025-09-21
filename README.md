@@ -45,6 +45,10 @@ This repository contains four projects:
   - npm run dev (Vite dev server)
   - npm run build (TypeScript build + Vite build)
   - npm run preview (Preview built app)
+ 
+## Project Demo Video
+You can watch the demo here:
+https://drive.google.com/file/d/12DZEBZXqa5SQ82qLQLELmiyjng36jEJE/view?usp=sharing
 
 ## Build
 
